@@ -1,6 +1,7 @@
 # android-unity-game
 
-##Testing stage
+Testing Stage
+
 ### 1 Trying to create wiki 
 ### 2 Collaborators
 #### 2.1 Will (Willhebe) project creator
