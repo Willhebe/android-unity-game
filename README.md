@@ -2,7 +2,7 @@
 
 The current apk can be downloaded from [http://www.droidbin.com/p1djskc1ms1jafljmrl229o7lu3]
 
-Currently the game does nothing. There are 3 screens (or scenes) that are navigable. The game logic is still being worked. It is an idle game where you make patterns that are then replicated by training replicators to churn out your patterns until you reach another level where more complex patterns are needed.
+Currently the game does nothing. There are 3 screens (or scenes) that are navigable. The game logic is still being worked. It is an idle game where you make patterns that are then replicated by training replicators to churn out your patterns until you reach another level where more complex patterns are needed. See [what it should look like](https://github.com/Willhebe/android-unity-game/wiki/What-it-should-look-like) for more details on what I think the game should do.
 
 Game scene screenshot taken on my galaxy a7 phone ![game scene screenshot](https://github.com/Willhebe/android-unity-game/blob/master/Screenshot_20190903-133926_TestGitHub2.jpg)
 
